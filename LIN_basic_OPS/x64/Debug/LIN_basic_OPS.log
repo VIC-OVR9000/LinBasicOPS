@@ -1,0 +1,13 @@
+﻿  BasisVCTR.cpp
+F:\LIN_basic_OPS\BasisVCTR.cpp(15,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\LIN_basic_OPS\BasisVCTR.cpp(72,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  origin.cpp
+F:\LIN_basic_OPS\origin.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BasicOPS_0.cpp
+F:\LIN_basic_OPS\BasicOPS_0.cpp(57,10): warning C4129: '/': unrecognized character escape sequence
+F:\LIN_basic_OPS\BasicOPS_0.cpp(205,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\LIN_basic_OPS\BasicOPS_0.cpp(206,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\LIN_basic_OPS\BasicOPS_0.cpp(266,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+F:\LIN_basic_OPS\BasisVCTR.cpp(146): warning C4715: 'computeCROSS': not all control paths return a value
+  LIN_basic_OPS.vcxproj -> F:\LIN_basic_OPS\x64\Debug\LIN_basic_OPS.exe

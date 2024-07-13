@@ -1,0 +1,2 @@
+C:\Users\spamuel\Documents\Visual Studio 2022\PROJECTS\LIN_basic_OPS\LIN_basic_OPS\x64\Debug\LIN_basic_OPS.exe
+F:\LIN_basic_OPS\x64\Debug\LIN_basic_OPS.exe
